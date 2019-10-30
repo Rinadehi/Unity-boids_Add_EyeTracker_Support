@@ -60,3 +60,12 @@ artifacts
 .Editor
 .UnityLauncher.Editor
 
+# ---Add by Rinadehi----------------
+
+# Tobii Eye Tracking SDK
+ECSSamples/Assets/Tobii
+ECSSamples/Assets/Tobii.meta
+
+# Unity Update Log
+ECSSamples/Logs
+
