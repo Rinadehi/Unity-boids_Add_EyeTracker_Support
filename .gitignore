@@ -65,6 +65,7 @@ artifacts
 # Tobii Eye Tracking SDK
 ECSSamples/Assets/Tobii
 ECSSamples/Assets/Tobii.meta
+ECSSamples/tobii_gameintegration_*
 
 # Unity Update Log
 ECSSamples/Logs
